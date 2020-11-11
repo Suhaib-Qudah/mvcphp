@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1725e54a-6dcc-404a-ab68-75f523741c95" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1k7cYMfeXmYNGKQzxHY6TiASZBN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1725e54a-6dcc-404a-ab68-75f523741c95" name="Default Changelist" comment="" />
+      <created>1605055117855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605055117855</updated>
+      <workItem from="1605055119124" duration="23523000" />
+      <workItem from="1605092261564" duration="87000" />
+    </task>
+    <task id="LOCAL-00001" summary="My first mvc project">
+      <created>1605090606798</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605090606798</updated>
+    </task>
+    <task id="LOCAL-00002" summary="My first mvc project">
+      <created>1605091450973</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605091450973</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My first mvc project" />
+    <option name="LAST_COMMIT_MESSAGE" value="My first mvc project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="763" y="239" width="446" height="643" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605064468283">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="763" y="239" width="446" height="643" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1605064468283" />
+    <state x="535" y="110" width="912" height="893" key="CommitChangelistDialog2" timestamp="1605091450925">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="535" y="110" width="912" height="893" key="CommitChangelistDialog2/72.27.1848.1053@72.27.1848.1053" timestamp="1605091450925" />
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1605092341731">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1605092341731" />
+    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1605092290457">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1605092290457" />
+    <state x="659" y="272" width="672" height="678" key="search.everywhere.popup" timestamp="1605055167078">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="659" y="272" width="672" height="678" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1605055167078" />
+  </component>
+</project>
